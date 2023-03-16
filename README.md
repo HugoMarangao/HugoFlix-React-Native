@@ -17,7 +17,7 @@
   </a>
 </p>
 
-Projeto de um Aplicativo de filmes onde você poderá ver a descrições dos filmes pontuações dos filmes segundo a mídia. Alem do mais poderá salvar eles e navegar para seus sites específicos de cada filme
+Design of a movie Application where you can see the descriptions of the movies scores of the movies according to the media. In addition, you can save them and navigate to your specific websites for each movie
 # 📔 Requisitos:
 - necessário o android studio ou o sistema da apple para uso do simulador.
 - React Navigation
